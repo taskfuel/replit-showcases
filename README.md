@@ -23,10 +23,10 @@ set.
 
 [![Run on Replit](https://replit.com/badge/github/taskfuel/one-search-twenty-x-posts)](https://replit.com/github.com/taskfuel/one-search-twenty-x-posts)
 
-Ask X something in plain English. A model writes the search query, and twenty
-posts come back with their full text, long ones included, plus likes, replies
-and a link to each original. Under a cent a question, and no X developer
-account.
+Ask X something in plain English. A model writes the search query, and up to
+twenty posts come back with their full text, long ones included, plus likes,
+replies and a link to each original. Under a cent a question, and no X
+developer account.
 
 [Repo](https://github.com/taskfuel/one-search-twenty-x-posts) ·
 [Open in Replit](https://replit.com/github.com/taskfuel/one-search-twenty-x-posts)
