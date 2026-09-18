@@ -19,13 +19,14 @@ set.
 [Repo](https://github.com/taskfuel/one-brief-four-image-models) ·
 [Open in Replit](https://replit.com/github.com/taskfuel/one-brief-four-image-models)
 
-### One search, twenty X posts
+### One question, twenty X posts
 
 [![Run on Replit](https://replit.com/badge/github/taskfuel/one-search-twenty-x-posts)](https://replit.com/github.com/taskfuel/one-search-twenty-x-posts)
 
-Search X by person, phrase or ticker. Twenty posts come back with their full
-text, long ones included, plus likes, replies and a link to each original. Half
-a cent a search, and no X developer account.
+Ask X something in plain English. A model writes the search query, and twenty
+posts come back with their full text, long ones included, plus likes, replies
+and a link to each original. Under a cent a question, and no X developer
+account.
 
 [Repo](https://github.com/taskfuel/one-search-twenty-x-posts) ·
 [Open in Replit](https://replit.com/github.com/taskfuel/one-search-twenty-x-posts)
